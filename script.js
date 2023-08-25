@@ -1,8 +1,8 @@
 "use strict";
 /*
-        Auther: Aman Arabzadeh
+        
         Fun game, guess my number!! 
-        build it to play with my niece.
+        build it with my niece.
 */
 
 const msg = document.querySelector(".message");
