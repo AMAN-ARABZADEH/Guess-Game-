@@ -12,7 +12,8 @@ I created this game to engage and have fun with my niece while teaching her abou
 
 <br>
 <br>
-![Guess Game Screenshot](Guess game.png)
+
+![Guess Game Screenshot](https://github.com/AMAN-ARABZADEH/Guess-Game-/blob/main/Guess%20game.png)
 
 <br>
 ## How to Play
