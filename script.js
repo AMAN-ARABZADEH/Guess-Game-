@@ -1,6 +1,6 @@
 "use strict";
 /*
-        Auther: Aman Arabzadeh
+       
         Fun game, guess my number!! 
         build it  with my niece.
 */
