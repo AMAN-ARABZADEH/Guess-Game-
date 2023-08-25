@@ -10,6 +10,11 @@ It's a simple and interactive game designed for enjoyment and learning.
 
 I created this game to engage and have fun with my niece while teaching her about numbers and logic.
 
+<br>
+<br>
+![Guess Game Screenshot](https://github.com/AMAN-ARABZADEH/Guess-Game-/blob/main/Guess%20game.png)
+
+<br>
 ## How to Play
 
 1. A random number is generated between 1 and 23.
