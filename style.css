@@ -1,0 +1,101 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/*
+        Auther: Aman Arabzadeh
+        Fun game, guess my number!! 
+        build it to play with my niece.
+*/
+  
+  /* Set a background color for the whole page */
+  body {
+    background-color: #f4f4f4;
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Header Styles */
+  header {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 1rem;
+  }
+  
+  h1 {
+    font-size: 2rem;
+  }
+  
+  /* Main Content Styles */
+  main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+  }
+  
+  /* Section Styles */
+  section {
+    padding: 1rem;
+  }
+  
+  .left {
+    background-color: #eee;
+    border-radius: 5px;
+    text-align: center;
+    margin-right: 2rem;
+  }
+  
+  .right {
+    background-color: #f9f9f9;
+    border-radius: 5px;
+    text-align: center;
+    padding: 1rem;
+  }
+  
+  /* Button Styles */
+  .btn {
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .btn.check {
+    background-color: #4caf50;
+    color: white;
+  }
+  
+  .btn.again {
+    background-color: #ff9800;
+    margin-top: 2rem;
+    color: white;
+  }
+
+  
+  /* Message Styles */
+  .message {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+  }
+  
+  /* Score Styles */
+  .label-score, .label-highscore {
+    font-size: 1.2rem;
+    margin-top: 1rem;
+  }
+  
+  /* Media Query for Responsiveness */
+  @media screen and (max-width: 768px) {
+    main {
+      flex-direction: column;
+      height: auto;
+    }
+  
+    .left {
+      margin-right: 0;
+      margin-bottom: 1rem;
+    }
+  }
+  
