@@ -1,14 +1,8 @@
 "use strict";
 /*
-<<<<<<< HEAD
-        
+        Auther: Aman Arabzadeh
         Fun game, guess my number!! 
-        build it with my niece.
-=======
-       
-        Fun game, guess my number!! 
-        build it  with my niece.
->>>>>>> c840509738aa1cf570d30c85639ca95a59e61335
+        build it to play with my niece.
 */
 
 const msg = document.querySelector(".message");
